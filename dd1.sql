@@ -1,0 +1,28 @@
+//添加管理员
+
+INSERT INTO managers VALUES ('李明','1234567','201671030100');
+INSERT INTO managers VALUES ('刘丽','1457835','201671030101');
+INSERT INTO managers VALUES ('王梅','4687567','201671030102');
+INSERT INTO managers VALUES ('刘华','3567567','201671030103');
+INSERT INTO managers VALUES ('王莉','9785673','201671030104');
+ 
+
+//添加学生
+
+INSERT VINTO students ALUES ('001', '赵一','1234567','20','计算机','12315462305','2633123048@qq.com');
+INSERT VINTO students ALUES ('002', '赵二','2434567','19','计算机','12315462305','2633123048@qq.com');
+INSERT VINTO students ALUES ('003', '赵三','3454663','22','计算机','12315462305','2633123048@qq.com');
+INSERT VINTO students ALUES ('004', '赵四','1234546','21','计算机','12315462305','2633123048@qq.com');
+INSERT VINTO students ALUES ('005', '赵五','8784865','20','计算机','12315462305','2633123048@qq.com');
+INSERT VINTO students ALUES ('006', '赵六','4654677','23','计算机','12315462305','2633123048@qq.com');
+INSERT VINTO students ALUES ('007', '赵七','1234567','21','计算机','12315462305','2633123048@qq.com');
+INSERT VINTO students ALUES ('008', '赵八','4566734','20','计算机','12315462305','2633123048@qq.com');
+INSERT VINTO students ALUES ('009', '赵九','1234567','18','计算机','12315462305','2633123048@qq.com');
+INSERT VINTO students ALUES ('0010', '王一','1234567','23','计算机','12315462305','2633123048@qq.com');
+INSERT VINTO students ALUES ('0011', '王二','1234567','20','计算机','12315462305','2633123048@qq.com');
+INSERT VINTO students ALUES ('0012', '王三','1234567','22','计算机','12315462305','2633123048@qq.com');
+INSERT VINTO students ALUES ('0013', '王四','1234567','21','计算机','12315462305','2633123048@qq.com');
+INSERT VINTO students ALUES ('0014', '王五','1234567','19','计算机','12315462305','2633123048@qq.com');
+INSERT VINTO students ALUES ('0015', '王六','1234567','20','计算机','12315462305','2633123048@qq.com');
+
+
